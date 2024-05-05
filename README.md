@@ -31,5 +31,3 @@ The server (`server.py`) and client (`client.py`) scripts demonstrate a simple c
 ## Requirements
 
 - Python 3.x
-
-Feel free to customize it further according to your specific project details and requirements!
